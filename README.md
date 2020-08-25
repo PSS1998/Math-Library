@@ -2,12 +2,13 @@
 
 this is a math library written in python. You can create a math expression containing numbers, variables and functions. You can also set a value for each variable. You can get the deriative of any expression with this library and finaly you can add your own function to the library from client side without adding code to the library.<br/>
 
-# TODO
+## TODO
 1- adding integral ability<br/>
 2- adding more predefined functions.<br/>
 3- adding a parser so users can use a more math friendly interface.<br/>
 <br/>
 
+## Test
 for running the testcases you only need to run the following command.<br/>
 python3 testcase.py<br/>
 
